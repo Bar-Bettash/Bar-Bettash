@@ -9,7 +9,7 @@ A passionate technologist combining specialization in Machine Learning with mark
 https://github.com/Bar-Bettash/ML_Stock_Price_Prediction
 
 ## SQL Project:
-
+https://github.com/Bar-Bettash/SQL_Project_Database
 
 
 ## 🌐 Socials:
