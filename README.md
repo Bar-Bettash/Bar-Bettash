@@ -5,6 +5,12 @@
 # 💫 About Me:
 A passionate technologist combining specialization in Machine Learning with market research, seeking to leverage my expertise in developing innovative solutions and driving business growth. <br>Proven track record of success in building predictive models, analyzing complex data, and extracting actionable insights to inform strategic decision-making. Highly motivated and results-oriented, with excellent communication & teamwork skills.
 
+## Check out my Machine Learning Investing for dummies (Python) :
+https://github.com/Bar-Bettash/ML_Stock_Price_Prediction
+
+## SQL Project:
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/barbettash/) 
