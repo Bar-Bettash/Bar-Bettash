@@ -8,8 +8,8 @@ A passionate technologist combining specialization in Machine Learning with mark
 ## Check out my Data Science & Machine Learning housing data processing & price prediction (Python) :
 https://github.com/Bar-Bettash/Python_Data_Science_RealEstatePrice
 
-## Check out my Machine Learning Investing for dummies (Python) :
-https://github.com/Bar-Bettash/ML_Stock_Price_Prediction
+## Check out my Data Engineering Guide for Beginners: Data Cleaning (Python) :
+https://github.com/Bar-Bettash/DataEngineering_Cleaning_BeginnerGuide
 
 ## SQL Project:
 https://github.com/Bar-Bettash/SQL_Project_Database
