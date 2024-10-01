@@ -5,8 +5,8 @@
 # 💫 About Me:
 A passionate technologist combining specialization in Machine Learning with market research, seeking to leverage my expertise in developing innovative solutions and driving business growth. <br>Proven track record of success in building predictive models, analyzing complex data, and extracting actionable insights to inform strategic decision-making. Highly motivated and results-oriented, with excellent communication & teamwork skills.
 
-## Check out my Data Science & Machine Learning housing data processing & price prediction (Python) :
-https://github.com/Bar-Bettash/Python_Data_Science_RealEstatePrice
+## Check out my Data Science & Machine Learning OOP housing data processing & price prediction (Python) :
+https://github.com/Bar-Bettash/OOP_Python_Data_Science_RealEstatePrice
 
 ## Check out my Data Engineering Guide for Beginners: Data Cleaning (Python) :
 https://github.com/Bar-Bettash/DataEngineering_Cleaning_BeginnerGuide
